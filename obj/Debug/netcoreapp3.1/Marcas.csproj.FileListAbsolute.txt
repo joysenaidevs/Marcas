@@ -1,0 +1,13 @@
+C:\Users\nilma\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.csprojAssemblyReference.cache
+C:\Users\nilma\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.AssemblyInfoInputs.cache
+C:\Users\nilma\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.AssemblyInfo.cs
+C:\Users\nilma\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.csproj.CoreCompileInputs.cache
+C:\Users\nilma\Desktop\Marcas\bin\Debug\netcoreapp3.1\Marcas.exe
+C:\Users\nilma\Desktop\Marcas\bin\Debug\netcoreapp3.1\Marcas.deps.json
+C:\Users\nilma\Desktop\Marcas\bin\Debug\netcoreapp3.1\Marcas.runtimeconfig.json
+C:\Users\nilma\Desktop\Marcas\bin\Debug\netcoreapp3.1\Marcas.runtimeconfig.dev.json
+C:\Users\nilma\Desktop\Marcas\bin\Debug\netcoreapp3.1\Marcas.dll
+C:\Users\nilma\Desktop\Marcas\bin\Debug\netcoreapp3.1\Marcas.pdb
+C:\Users\nilma\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.dll
+C:\Users\nilma\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.pdb
+C:\Users\nilma\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.genruntimeconfig.cache

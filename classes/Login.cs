@@ -13,7 +13,7 @@ namespace Marcas.classes
 
             if (Logado)
             {
-                
+                GerarMenu();
             }
         }
         public void GerarMenu(){

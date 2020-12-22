@@ -11,3 +11,16 @@ C:\Users\nilma\Desktop\Marcas\bin\Debug\netcoreapp3.1\Marcas.pdb
 C:\Users\nilma\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.dll
 C:\Users\nilma\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.pdb
 C:\Users\nilma\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.genruntimeconfig.cache
+C:\Users\DEV\Desktop\Marcas\bin\Debug\netcoreapp3.1\Marcas.exe
+C:\Users\DEV\Desktop\Marcas\bin\Debug\netcoreapp3.1\Marcas.deps.json
+C:\Users\DEV\Desktop\Marcas\bin\Debug\netcoreapp3.1\Marcas.runtimeconfig.json
+C:\Users\DEV\Desktop\Marcas\bin\Debug\netcoreapp3.1\Marcas.runtimeconfig.dev.json
+C:\Users\DEV\Desktop\Marcas\bin\Debug\netcoreapp3.1\Marcas.dll
+C:\Users\DEV\Desktop\Marcas\bin\Debug\netcoreapp3.1\Marcas.pdb
+C:\Users\DEV\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.csprojAssemblyReference.cache
+C:\Users\DEV\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.AssemblyInfoInputs.cache
+C:\Users\DEV\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.AssemblyInfo.cs
+C:\Users\DEV\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.csproj.CoreCompileInputs.cache
+C:\Users\DEV\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.dll
+C:\Users\DEV\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.pdb
+C:\Users\DEV\Desktop\Marcas\obj\Debug\netcoreapp3.1\Marcas.genruntimeconfig.cache

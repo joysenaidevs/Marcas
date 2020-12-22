@@ -13,6 +13,7 @@ namespace Marcas.classes
         public Usuario CadastradoPor { get; set; }
         
         public List<Produto> ListaDeProdutos { get; set; }
+        public List<Marca> Marcas = new List<Marca>();
 
         public void Cadastrar(){
 

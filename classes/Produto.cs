@@ -16,7 +16,7 @@ namespace Marcas.classes
 
         public void Cadastrar(){
 
-            Marca Marcas = new Marca();
+            Marca Marca = new Marca();
 
             Produto novoProduto = new Produto();
 

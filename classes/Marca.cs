@@ -19,10 +19,10 @@ namespace Marcas.classes
             Marca novaMarca = new Marca();
 
             Console.WriteLine("Digite o código da marca: ");
-            Codigo = int.Parse(Console.ReadLine());
+            novaMarca.Codigo = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Digite o nome da marca: ");
-            NomeMarca = Console.ReadLine();
+            novaMarca.NomeMarca = Console.ReadLine();
 
             novaMarca.DataCadastro = DateTime.UtcNow;
             Marcas.Add(novaMarca);

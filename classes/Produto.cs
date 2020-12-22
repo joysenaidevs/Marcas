@@ -9,13 +9,14 @@ namespace Marcas.classes
         public string NomeProduto { get; set; }
         public float Preco { get; set; }
         public DateTime DataCadastro { get; set; }
-        public Marca Marca { get; set; }
+        public Marca Marca = new Marca();
         public Usuario CadastradoPor { get; set; }
         
-        public List<Produto> ListaDeProdutos { get; set; }
-        public List<Marca> Marcas = new List<Marca>();
+        List<Produto> ListaDeProdutos = new List<Produto>();
 
         public void Cadastrar(){
+
+            Marca Marcas = new Marca();
 
             Produto novoProduto = new Produto();
 

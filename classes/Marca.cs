@@ -11,9 +11,9 @@ namespace Marcas.classes
 
         public DateTime DataCadastro { get; set; }
         
-        //List<Marca> Marcas { get; set; }
         public List<Marca> Marcas = new List<Marca>();
-
+        
+        
         public Marca CadastrarMarca(){
 
             Marca novaMarca = new Marca();
